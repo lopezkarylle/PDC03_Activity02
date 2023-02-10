@@ -21,9 +21,9 @@
             </Label.FormattedText>
         </Label>
 
-        <Button Text="Activity1" Clicked="OpenActivity1"></Button>
-        <Button Text="Activity2" Clicked="OpenActivity2"></Button>
-        <Button Text="Activity3" Clicked="OpenActivity3"></Button>
+        <Button Text="Click to open Activity 1" Clicked="OpenActivity1"></Button>
+        <Button Text="Click to open Activity 2" Clicked="OpenActivity2"></Button>
+        <Button Text="Click to open Activity 3"></Button>
         
     </StackLayout>
 
